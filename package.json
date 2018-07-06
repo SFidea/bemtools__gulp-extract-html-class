@@ -1,0 +1,27 @@
+{
+  "name": "@bemtools/gulp-extract-html-class",
+  "version": "1.0.0",
+  "description": "Extracts all classes from the html",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yury-kopyl/bemtools__gulp-extract-html-class"
+  },
+  "keywords": [
+    "bem",
+    "extract classes",
+    "get classes"
+  ],
+  "author": "Yury Kopyl <yury.kopyl@gmail.com> (https://github.com/yury-kopyl)",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^5.2.0"
+  }
+}
