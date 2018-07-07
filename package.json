@@ -1,6 +1,6 @@
 {
   "name": "@bemtools/gulp-extract-html-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extracts all classes from the html",
   "main": "index.js",
   "scripts": {

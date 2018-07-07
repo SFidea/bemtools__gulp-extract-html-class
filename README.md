@@ -1,6 +1,4 @@
-﻿# @bemtools/gulp-extract-html-class
-
-[![NPM version](https://img.shields.io/badge/npm-1.0.0-blue.svg)](https://www.npmjs.com/package/@bemtools/gulp-extract-html-class)
+﻿[![NPM version](https://img.shields.io/badge/npm-1.0.1-blue.svg)](https://www.npmjs.com/package/@bemtools/gulp-extract-html-class)
 [![Build Status](https://travis-ci.org/yury-kopyl/bemtools__gulp-extract-html-class.svg?branch=master)](https://travis-ci.org/yury-kopyl/bemtools__gulp-extract-html-class)
 
 Extracts all classes from the html
